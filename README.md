@@ -1,5 +1,5 @@
 ## 📧 Spam Email Classifier 
-A Machine Learning powered Smap Email Classifier built using **TF-IDF, Multinomial Naive Bayes**, deployed as a full-stack web application using **FastAPI, Jinja and Bootstrap 5**.
+A Machine Learning powered Spam Email Classifier built using **TF-IDF, Multinomial Naive Bayes**, deployed as a full-stack web application using **FastAPI, Jinja and Bootstrap 5**.
 
 ---
 
